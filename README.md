@@ -5,7 +5,7 @@ Currently a student at Washington State University
 
 * 🌍  I'm based in Seattle, WA
 * ✉️  You can contact me at [imsojack@gmail.com](mailto:imsojack@gmail.com)
-* 🚀  I'm continually working on my [Personal Portfolio Webpage](http://github.com/jack-balster)
+* 🚀  I'm continually working on my [Personal Portfolio Webpage](https://jack-balster.github.io/Personal-Page/)
 * 🧠  I'm currently learning C++ and SQL
 
 ### Skills
