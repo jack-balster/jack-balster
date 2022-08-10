@@ -1,12 +1,12 @@
-### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jack Balster
+### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Jack 
 ======================================================================================
 
 Currently a student at Washington State University
 
-* 🌍  I'm based in Seattle, WA
+* 🌍  I'm based in Seattle and Pullman, WA
 * ✉️  You can contact me at [imsojack@gmail.com](mailto:imsojack@gmail.com)
-* 🚀  I'm continually working on my [Personal Portfolio Webpage](https://jack-balster.github.io/Personal-Page/)
-* 🧠  I'm currently learning C++ and SQL
+* 🚀  I'm continually working on and updating my [Personal Portfolio Webpage](https://jack-balster.github.io/Personal-Page/)
+* 🧠  I'm currently learning C++, SQL, and JavaScript
 
 ### Skills
 
@@ -23,4 +23,4 @@ Currently a student at Washington State University
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/imsojack" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/jack_balster" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jack-balster" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/imsojack" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jack-balster" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
