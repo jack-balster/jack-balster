@@ -6,7 +6,7 @@ Currently a student at Washington State University getting my master's in Softwa
 * 🌍  I'm based in Seattle, and Pullman, WA
 * ✉️  You can contact me at [imsojack@gmail.com](mailto:imsojack@gmail.com)
 * 🚀  Check out my [Personal Portfolio Webpage](https://jack-balster.github.io/Personal-Page/)
-* 🧠  I'm currently learning Python, Flutter, and PostgreSQL
+* 🧠  I'm currently working with Python, SQL, Node.js, and AWS
 
 ### Skills
 
