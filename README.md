@@ -1,7 +1,7 @@
 ### Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Jack, welcome to my GitHub!
 ======================================================================================
 
-Currently a student at Washington State University getting my master's in Software Engineering!
+Currently a student at Washington State University getting my master's in Computer Science!
 
 * 🌍  I'm based in Seattle, and Pullman, WA
 * ✉️  You can contact me at [imsojack@gmail.com](mailto:imsojack@gmail.com)
